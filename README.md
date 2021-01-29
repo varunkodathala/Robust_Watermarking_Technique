@@ -1,1 +1,1 @@
-# Robust_Watermarking_Technique
+# Robust Watermarking Technique
